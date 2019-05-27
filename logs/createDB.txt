@@ -1,0 +1,12 @@
+#commands used to create sqllite database
+
+csvsql --db sqlite:///EV_Comparator.db --insert --table vehicles June2019Vehicles.csv
+
+to open sqlite use: 
+sqlite3 EV_Comparator.db
+
+to view the tables:
+sqlite> .tables
+
+to view the schema:
+sqlite> .schema schools

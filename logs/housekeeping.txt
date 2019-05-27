@@ -1,0 +1,2 @@
+Acivate conda virtual environment: source activate EV
+
