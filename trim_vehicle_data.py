@@ -2,6 +2,9 @@ import pandas as pd
 import numpy as np
 import types
 
+#website to find vehicles data 
+# https://www.fueleconomy.gov/feg/download.shtml
+
 file_path = "/Users/Heyseb1/Downloads/vehicles.csv"
 data = pd.read_csv(file_path)
 
