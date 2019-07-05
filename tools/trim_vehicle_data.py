@@ -30,4 +30,4 @@ Data = {'gallons':  gallons,
         }
 
 df = pd.DataFrame(Data, columns = ['gallons','city_mpg', 'avg_mpg', 'highway_mpg', 'make', 'model', 'year'])
-df.to_csv("June2019Vehicles.csv", index=False)
+df.to_csv("/Users/Heyseb1/Desktop/Coding/EV_App/EV_comparator/data/June2019Vehicles.csv")
