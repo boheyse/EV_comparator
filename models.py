@@ -8,7 +8,7 @@ db = SqliteDatabase('EV_Comparator.db')
 class Vehicle(Model):
   # These are all the fields it has
   # match up CharField/IntegerField/etc with correct type
-  a = FloatField(primary_key=True) # primary key = unique id
+  a = FloatField() 
   gallons = FloatField()
   city_mpg = FloatField()
   avg_mpg = FloatField()

@@ -1,2 +1,5 @@
-Acivate conda virtual environment: source activate EV
+API Energy key: 0qhns3LUhrH21EdMOuSP1I7GFsL3EkkmPak6X1PU
+API Energy request: https://api.openei.org/utility_rates?version=3&format=json&api_key=0qhns3LUhrH21EdMOuSP1I7GFsL3EkkmPak6X1PU
+
+Make sure to acivate conda virtual environment: $ source activate EV
 

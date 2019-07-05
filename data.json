@@ -1,0 +1,444 @@
+{
+	"items": [
+		{
+			"label": "539f6a63ec4f024411ec8ed1",
+			"uri": "https://openei.org/apps/USURDB/rate/view/539f6a63ec4f024411ec8ed1",
+			"revisions": [
+				1279921710,
+				1354947445,
+				1358185528,
+				1358186234,
+				1358187086,
+				1365446244,
+				1392058112,
+				1395768262,
+				1427405180,
+				1431357481,
+				1461977413,
+				1535366991
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "D-1",
+			"startdate": 1370044800,
+			"enddate": 1529193600,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for all residential purposes through one \r\nmeter to a single or double occupancy dwelling unit including farm dwellings.  A dwelling unit consists of a \r\nkitchen, bathroom, and heating facilities connected on a permanent basis.  Service to appurtenant buildings may be taken on the same meter. \r\n\r\nThis rate is not available for common areas of separately metered apartments and condominium complexes, nor to a separate meter which serves a garage, boat well or other non-dwelling applications.\r\n\r\n$/kWh = Supply Charge + Delivery Charge",
+			"source": "https://www2.dteenergy.com/wps/wcm/connect/2ab3cd68-cf7b-4946-9a14-f9a8d62a20de/detroitEdisonTariff.pdf?MOD=AJPERES&CACHEID=2ab3cd68-cf7b-4946-9a14-f9a8d62a20de"
+		},
+		{
+			"label": "539f6d3bec4f024411ecb311",
+			"uri": "https://openei.org/apps/USURDB/rate/view/539f6d3bec4f024411ecb311",
+			"revisions": [
+				1339696947,
+				1339697146,
+				1354941213,
+				1392058598,
+				1427405214,
+				1431357718
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Supplemental Space Heating D1.5 (Full Service)",
+			"startdate": 1370066400,
+			"enddate": 1427760000,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for Supplemental Electric Space Heating for that portion of the home which is heated with permanently installed separately metered electric space heating unit(s) totaling 3 kW or more. This rate is not available for heat pumps.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "539fb801ec4f024bc1dc1287",
+			"uri": "https://openei.org/apps/USURDB/rate/view/539fb801ec4f024bc1dc1287",
+			"revisions": [
+				1339776256,
+				1339776356,
+				1339776664,
+				1355000825,
+				1392145569,
+				1427405191,
+				1432820478
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "WATER HEATING SERVICE RATE Option III - Separate Meter - Uncontrolled (Retail Service Residential)",
+			"startdate": 1370044800,
+			"sector": "Residential",
+			"description": "Available to customers using hot water for sanitary purposes (other uses subject to the approval of the Company) and taking service under Residential and General Service Rate Schedules.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "539fbf7eec4f024c27d89245",
+			"uri": "https://openei.org/apps/USURDB/rate/view/539fbf7eec4f024c27d89245",
+			"revisions": [
+				1339771946,
+				1339772158,
+				1354949808,
+				1402597296,
+				1427405197,
+				1431522145,
+				1431522521,
+				1431528363,
+				1431528787
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Water Heating Service Rate D5 Option 1 (Full Service Residential)",
+			"startdate": 1324429200,
+			"enddate": 1430352000,
+			"sector": "Residential",
+			"description": "Available to customers using hot water for sanitary purposes (other uses subject to the approval of the Company) and taking service under Residential and General Service Rate Schedules. Options I and III are also available to customers with solar assisted hot water heaters.\r\nOption I: Available to customers who desire controlled water heating service to all of the heating elements of electric water heaters, the design and method of installation of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.\r\nOption II: Available to customers who desire controlled water heating service to single tank installations of 30 through 120 gallon tank capacity for residential customers, and 40 through 120 gallon tank capacity for commercial customers, the design and method of installation of which are approved by the Company as adapted to this service. This service may be taken combined with normal load through the regular meter with only the lower element controlled. NOT AVAILABLE FOR NEW INSTALLATIONS.\r\nOption III: Available to customers who desire uncontrolled water heating service to installations, the design and method of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "539fc3b2ec4f024c27d8bed5",
+			"uri": "https://openei.org/apps/USURDB/rate/view/539fc3b2ec4f024c27d8bed5",
+			"revisions": [
+				1339773972,
+				1339774077,
+				1339774216,
+				1339774782,
+				1354941666,
+				1408539575,
+				1427405199,
+				1431528815,
+				1432893215
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "WATER HEATING SERVICE RATE-Option II-Combined Meter-Controlled D5 (Retail Service Residential)",
+			"startdate": 1324429200,
+			"enddate": 1430352000,
+			"sector": "Residential",
+			"description": "Energy Charge applies to 10 kWh per day, but not to the first 7 kWh per day which will be billed on the applicable rate schedule.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "539fc7cdec4f024d2f53e038",
+			"uri": "https://openei.org/apps/USURDB/rate/view/539fc7cdec4f024d2f53e038",
+			"revisions": [
+				1339697195,
+				1339697280,
+				1354939027,
+				1392058454,
+				1427405214,
+				1431357597
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Supplemental Space Heating D1.5 (Retail Service)",
+			"startdate": 1324447200,
+			"enddate": 1427760000,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for Supplemental Electric Space Heating for that portion of the home which is heated with permanently installed separately metered electric space heating unit(s) totaling 3 kW or more. This rate is not available for heat pumps.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "555116a75457a30f7e8b456c",
+			"uri": "https://openei.org/apps/USURDB/rate/view/555116a75457a30f7e8b456c",
+			"revisions": [
+				1431355975,
+				1431356204,
+				1431527525,
+				1448386327,
+				1448389945,
+				1457451446
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "RESIDENTIAL SERVICE RATE-(Retail Service)-D1",
+			"startdate": 1427842800,
+			"enddate": 1456704000,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for all residential purposes through one meter to a single or double occupancy dwelling unit including farm dwellings. A dwelling unit consists of a kitchen, bathroom, and heating facilities connected on a permanent basis. Service to appurtenant buildings may be taken on the same meter.\r\nThis rate is not available for common areas of separately metered apartments and condominium complexes, nor to a separate meter which serves a garage, boat well or other non-dwelling applications.\r\nDistribution Charge: 5.003\u00a2 per kWh for all kWh",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "55511cfd5457a3850b8b4567",
+			"uri": "https://openei.org/apps/USURDB/rate/view/55511cfd5457a3850b8b4567",
+			"revisions": [
+				1431357597,
+				1431357697,
+				1431527834,
+				1457452032,
+				1457452764,
+				1457453096
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Supplemental Space Heating D1.5 (Retail Service)",
+			"startdate": 1427842800,
+			"enddate": 1456704000,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for Supplemental Electric Space Heating for that portion of the home which is heated with permanently installed separately metered electric space heating unit(s) totaling 3 kW or more. This rate is not available for heat pumps.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "55511d765457a30f7e8b456e",
+			"uri": "https://openei.org/apps/USURDB/rate/view/55511d765457a30f7e8b456e",
+			"revisions": [
+				1431357718,
+				1431357998,
+				1431528268,
+				1457453350
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Space Heating D2 (Whole House)",
+			"startdate": 1427846400,
+			"enddate": 1456704000,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for Supplemental Electric Space Heating for that portion of the home which is heated with permanently installed separately metered electric space heating unit(s) totaling 3 kW or more. This rate is not available for heat pumps.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "5553b80b5457a3372f8b456a",
+			"uri": "https://openei.org/apps/USURDB/rate/view/5553b80b5457a3372f8b456a",
+			"revisions": [
+				1431528363,
+				1431528477,
+				1431528775,
+				1457456167,
+				1536159820
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Water Heating Service Rate D5 Option 1 (Full Service Residential)",
+			"startdate": 1430438400,
+			"enddate": 1533427200,
+			"sector": "Residential",
+			"description": "Available to customers using hot water for sanitary purposes (other uses subject to the approval of the Company) and taking service under Residential and General Service Rate Schedules. Options I and III are also available to customers with solar assisted hot water heaters.\r\nOption I: Available to customers who desire controlled water heating service to all of the heating elements of electric water heaters, the design and method of installation of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.\r\nOption II: Available to customers who desire controlled water heating service to single tank installations of 30 through 120 gallon tank capacity for residential customers, and 40 through 120 gallon tank capacity for commercial customers, the design and method of installation of which are approved by the Company as adapted to this service. This service may be taken combined with normal load through the regular meter with only the lower element controlled. NOT AVAILABLE FOR NEW INSTALLATIONS.\r\nOption III: Available to customers who desire uncontrolled water heating service to installations, the design and method of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "5553b9cf5457a3c5378b4567",
+			"uri": "https://openei.org/apps/USURDB/rate/view/5553b9cf5457a3c5378b4567",
+			"revisions": [
+				1431528815,
+				1431528927,
+				1431528945
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "WATER HEATING SERVICE RATE-Option II-Combined Meter-Controlled D5 (Retail Service Residential)",
+			"startdate": 1430438400,
+			"sector": "Residential",
+			"description": "Energy Charge applies to 10 kWh per day, but not to the first 7 kWh per day which will be billed on the applicable rate schedule.\r\n\r\nAvailable to customers using hot water for sanitary purposes (other uses subject to the approval of the Company) and taking service under Residential and General Service Rate Schedules. Options I and III are also available to customers with solar assisted hot water heaters. Company approved waste heat reclamation systems and heat pump water heaters when used in conjunction with an approved electric water heater are also acceptable for use on Option I or III.\r\nOption I: Available to customers who desire controlled water heating service to all of the heating elements of electric water heaters, the design and method of installation of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.\r\nOption II: Available to customers who desire controlled water heating service to single tank installations of 30 through 120 gallon tank capacity for residential customers, and 40 through 120 gallon tank capacity for commercial customers, the design and method of installation of which are approved by the Company as adapted to this service. This service may be taken combined with normal load through the regular meter with only the lower element controlled. NOT AVAILABLE FOR NEW INSTALLATIONS.\r\nOption III: Available to customers who desire uncontrolled water heating service to installations, the design and method of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "565501875457a37d7d947b74",
+			"uri": "https://openei.org/apps/USURDB/rate/view/565501875457a37d7d947b74",
+			"revisions": [
+				1448386327,
+				1448389934,
+				1448389956,
+				1448390173,
+				1457451541
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "RESIDENTIAL SERVICE RATE-(Full Service)-D1",
+			"startdate": 1435705200,
+			"enddate": 1456704000,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for all residential purposes through one meter to a single or double occupancy dwelling unit including farm dwellings. A dwelling unit consists of a kitchen, bathroom, and heating facilities connected on a permanent basis. Service to appurtenant buildings may be taken on the same meter.\r\nThis rate is not available for common areas of separately metered apartments and condominium complexes, nor to a separate meter which serves a garage, boat well or other non-dwelling applications.\r\nDistribution Charge: 5.003\u00a2 per kWh for all kWh",
+			"source": "http://www.dleg.state.mi.us/mpsc/electric/ratebooks/dtee/dtee1curd1throughend.pdf"
+		},
+		{
+			"label": "56550fb45457a3ca7d947b74",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56550fb45457a3ca7d947b74",
+			"revisions": [
+				1448389956,
+				1448390162,
+				1457451783
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "RESIDENTIAL SERVICE RATE-(Retail Access Service)-D1",
+			"startdate": 1435705200,
+			"enddate": 1456704000,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for all residential purposes through one meter to a single or double occupancy dwelling unit including farm dwellings. A dwelling unit consists of a kitchen, bathroom, and heating facilities connected on a permanent basis. Service to appurtenant buildings may be taken on the same meter.\r\nThis rate is not available for common areas of separately metered apartments and condominium complexes, nor to a separate meter which serves a garage, boat well or other non-dwelling applications.\r\nDistribution Charge: 5.003\u00a2 per kWh for all kWh",
+			"source": "http://www.dleg.state.mi.us/mpsc/electric/ratebooks/dtee/dtee1curd1throughend.pdf"
+		},
+		{
+			"label": "56df54855457a37703fe4449",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df54855457a37703fe4449",
+			"revisions": [
+				1457451541,
+				1457451771,
+				1457452779,
+				1463405414,
+				1506071187
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "RESIDENTIAL SERVICE RATE-(Full Service)-D1",
+			"startdate": 1456794000,
+			"enddate": 1504137600,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for all residential purposes through one meter to a single or double occupancy dwelling unit including farm dwellings. A dwelling unit consists of a kitchen, bathroom, and heating facilities connected on a permanent basis. Service to appurtenant buildings may be taken on the same meter.\r\nThis rate is not available for common areas of separately metered apartments and condominium complexes, nor to a separate meter which serves a garage, boat well or other non-dwelling applications.\r\nDistribution Charge: 5.003\u00a2 per kWh for all kWh",
+			"source": "http://www.dleg.state.mi.us/mpsc/electric/ratebooks/dtee/dtee1curd1throughend.pdf"
+		},
+		{
+			"label": "56df55775457a3dd0efe4449",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df55775457a3dd0efe4449",
+			"revisions": [
+				1457451783,
+				1457451873,
+				1457452748,
+				1457452815,
+				1457452911,
+				1463405448,
+				1506071438
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "RESIDENTIAL SERVICE RATE-(Retail Access Service)-D1",
+			"startdate": 1456794000,
+			"enddate": 1504137600,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for all residential purposes through one meter to a single or double occupancy dwelling unit including farm dwellings. A dwelling unit consists of a kitchen, bathroom, and heating facilities connected on a permanent basis. Service to appurtenant buildings may be taken on the same meter.\r\nThis rate is not available for common areas of separately metered apartments and condominium complexes, nor to a separate meter which serves a garage, boat well or other non-dwelling applications.\r\nDistribution Charge: 5.003\u00a2 per kWh for all kWh",
+			"source": "http://www.dleg.state.mi.us/mpsc/electric/ratebooks/dtee/dtee1curd1throughend.pdf"
+		},
+		{
+			"label": "56df56705457a38772fe444a",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df56705457a38772fe444a",
+			"revisions": [
+				1457452032,
+				1457452726,
+				1457452796,
+				1506070696
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Time of Day Full Service",
+			"startdate": 1456790400,
+			"enddate": 1504137600,
+			"sector": "Residential",
+			"description": "Monthly charge includes LIEAF factor",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "56df597f5457a38772fe444b",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df597f5457a38772fe444b",
+			"revisions": [
+				1457452815,
+				1457452900,
+				1506071956
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Time of Day Retail Service",
+			"startdate": 1456790400,
+			"enddate": 1504137600,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for all residential purposes through one meter to a single or double occupancy dwelling unit including farm dwellings. A dwelling unit consists of a kitchen, bathroom, and heating facilities connected on a permanent basis. Service to appurtenant buildings may be taken on the same meter.\r\nThis rate is not available for common areas of separately metered apartments and condominium complexes, nor to a separate meter which serves a garage, boat well or other non-dwelling applications.\r\nDistribution Charge: 5.003\u00a2 per kWh for all kWh",
+			"source": "http://www.dleg.state.mi.us/mpsc/electric/ratebooks/dtee/dtee1curd1throughend.pdf"
+		},
+		{
+			"label": "56df5a985457a38b72fe4449",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df5a985457a38b72fe4449",
+			"revisions": [
+				1457453096,
+				1457453332,
+				1506072603
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Space Heating D2 (Retail Service)",
+			"startdate": 1456790400,
+			"enddate": 1504137600,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for Supplemental Electric Space Heating for that portion of the home which is heated with permanently installed separately metered electric space heating unit(s) totaling 3 kW or more. This rate is not available for heat pumps.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "56df5b965457a37d1bfe4449",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df5b965457a37d1bfe4449",
+			"revisions": [
+				1457453350,
+				1457453740,
+				1506072135
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Space Heating D2 (Full Service)",
+			"startdate": 1456790400,
+			"enddate": 1504137600,
+			"sector": "Residential",
+			"description": "Available to customers desiring service for Supplemental Electric Space Heating for that portion of the home which is heated with permanently installed separately metered electric space heating unit(s) totaling 3 kW or more. This rate is not available for heat pumps.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "56df66975457a37d1bfe444a",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df66975457a37d1bfe444a",
+			"revisions": [
+				1457456167,
+				1457456478,
+				1457456483,
+				1457456547
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Water Heating Residential Service Rate D5  (Full Service)",
+			"startdate": 1456790400,
+			"sector": "Residential",
+			"description": "Available to customers using hot water for sanitary purposes (other uses subject to the approval of the Company) and taking service under Residential and General Service Rate Schedules. Options I and III are also available to customers with solar assisted hot water heaters.\r\nOption I: Available to customers who desire controlled water heating service to all of the heating elements of electric water heaters, the design and method of installation of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.\r\nOption II: Available to customers who desire controlled water heating service to single tank installations of 30 through 120 gallon tank capacity for residential customers, and 40 through 120 gallon tank capacity for commercial customers, the design and method of installation of which are approved by the Company as adapted to this service. This service may be taken combined with normal load through the regular meter with only the lower element controlled. NOT AVAILABLE FOR NEW INSTALLATIONS.\r\nOption III: Available to customers who desire uncontrolled water heating service to installations, the design and method of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "56df67d35457a3880efe444a",
+			"uri": "https://openei.org/apps/USURDB/rate/view/56df67d35457a3880efe444a",
+			"revisions": [
+				1457456483,
+				1457456527
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Water Heating Commerfial Service Rate D5  (Full Service)",
+			"startdate": 1456790400,
+			"sector": "Residential",
+			"description": "Available to customers using hot water for sanitary purposes (other uses subject to the approval of the Company) and taking service under Residential and General Service Rate Schedules. Options I and III are also available to customers with solar assisted hot water heaters.\r\nOption I: Available to customers who desire controlled water heating service to all of the heating elements of electric water heaters, the design and method of installation of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.\r\nOption II: Available to customers who desire controlled water heating service to single tank installations of 30 through 120 gallon tank capacity for residential customers, and 40 through 120 gallon tank capacity for commercial customers, the design and method of installation of which are approved by the Company as adapted to this service. This service may be taken combined with normal load through the regular meter with only the lower element controlled. NOT AVAILABLE FOR NEW INSTALLATIONS.\r\nOption III: Available to customers who desire uncontrolled water heating service to installations, the design and method of which are approved by the Company as adapted to this service, taken through a separately metered circuit to which no other load except water heating may be connected.",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		},
+		{
+			"label": "59c525085457a39573bbb27b",
+			"uri": "https://openei.org/apps/USURDB/rate/view/59c525085457a39573bbb27b",
+			"revisions": [
+				1506070696,
+				1506071692
+			],
+			"approved": true,
+			"utility": "Detroit Edison Co",
+			"eiaid": 5109,
+			"name": "Residential Time of Day Full Service",
+			"startdate": 1504224000,
+			"enddate": 1504137600,
+			"sector": "Residential",
+			"description": "Monthly charge includes LIEAF factor",
+			"source": "http://www.dteenergy.com/pdfs/detroitEdisonTariff.pdf"
+		}
+	]
+}
